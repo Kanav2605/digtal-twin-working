@@ -1,5 +1,6 @@
 streamlit
-pandas
-scikit-learn
-joblib
-numpy
+transformers
+torch
+accelerate
+datasets
+joblib  <-- ADD THIS LINE
